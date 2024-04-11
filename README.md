@@ -1,4 +1,4 @@
-# Tickets4you
+# Tickets4You
 
 ## Technology Stack & Tools
 
